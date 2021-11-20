@@ -24,15 +24,15 @@
 			<key>PayloadDisplayName</key>
 			<string>Wi-Fi</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.3D2A402A-8ECD-42F9-9AC2-40AB43D4EEB9</string>
+			<string>com.apple.wifi.managed.F18E18A4-0953-47F6-A52F-B5DB970FA7C4</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>3D2A402A-8ECD-42F9-9AC2-40AB43D4EEB9</string>
+			<string>F18E18A4-0953-47F6-A52F-B5DB970FA7C4</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.2.1</string>
+			<string>192.168.2.123</string>
 			<key>ProxyServerPort</key>
 			<integer>10809</integer>
 			<key>ProxyType</key>
@@ -44,13 +44,13 @@
 	<key>PayloadDisplayName</key>
 	<string>凯莉的代理文件</string>
 	<key>PayloadIdentifier</key>
-	<string>wudeiMac.BC9F759D-DB99-4123-8605-68C1EB0DBFAF</string>
+	<string>macbookdeMacBook-Pro-2.5CC80699-3BF9-442C-BAE8-5C0D385CF383</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>E690D131-591B-4671-8522-D279CBAE3B18</string>
+	<string>3EB05688-FEEA-44BA-A6E6-AA7F3AA1FBDA</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
